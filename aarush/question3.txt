@@ -1,0 +1,4 @@
+Answer 3: 
+First, do a soft reset to bring committed files back to staging area, (git reset --soft HEAD~2), and then using git commit --ammend to modify commit message(and commit).
+
+
