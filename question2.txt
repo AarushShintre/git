@@ -1,6 +1,0 @@
-Answer 2: 
-
-"git remote add <name> <https/ssh>" can be used as many times as required to add as many remote repositories are required for a project, however name needs to be different each time. 
-
-One possible use case would be when a project has multiple teams, and developers from one team do not  need access to the other teams codebase, and each team can have one repository.
-
