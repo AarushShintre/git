@@ -1,0 +1,2 @@
+Answer 5: use git reset --soft <commit hash>
+

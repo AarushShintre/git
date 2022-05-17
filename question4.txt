@@ -1,0 +1,1 @@
+Answer 4: Use git reset --hard to permanently delete commits.
