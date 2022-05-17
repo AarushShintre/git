@@ -1,2 +1,0 @@
-Answer: Cherry-pick can be used when a file needs to be committed in a different branch from the one it has currently been committed in. Cherry- pick is a useful command for when you might have committed a file in the wrong branch. This commit can be reseted, and using cherry-pick, the file can be committed in the correct branch. 
-
